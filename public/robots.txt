@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /catalog
+Allow: /about
+Allow: /contacts
+Disallow: /api/
+Disallow: /admin/
+Disallow: /cart/
+
+Sitemap: https://agrosputnik.ru/sitemap.xml 
